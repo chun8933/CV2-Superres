@@ -1,2 +1,3 @@
 # CV2-Superres
- A Sample to CV2's Superres
+python cam.py > web cam integration
+python img.py > signal image integration
